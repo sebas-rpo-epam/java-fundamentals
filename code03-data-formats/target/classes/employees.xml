@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="1">
+        <name>Alice Johnson</name>
+        <department>Engineering</department>
+        <salary>95000.00</salary>
+        <email>alice.johnson@epam.com</email>
+    </employee>
+    <employee id="2">
+        <name>Bob Smith</name>
+        <department>Product</department>
+        <salary>85000.00</salary>
+        <email>bob.smith@epam.com</email>
+    </employee>
+    <employee id="3">
+        <name>Carol Williams</name>
+        <department>Engineering</department>
+        <salary>102000.00</salary>
+        <email>carol.williams@epam.com</email>
+    </employee>
+</employees>
